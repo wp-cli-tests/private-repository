@@ -1,2 +1,1 @@
-# private-repository
-Wordpress Bugbounty POC
+# Wordpress Bugbounty POC
